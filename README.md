@@ -1,4 +1,3 @@
-- Mathematics and Comp Sci BA candidate
-- Interested in mathematical logic
+- Recursion theory and descriptive set theory 
 
 
